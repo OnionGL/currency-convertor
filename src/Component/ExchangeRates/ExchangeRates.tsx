@@ -43,7 +43,7 @@ export default function ExchangeRates() {
                <MenuItem value={"USD"}>USD</MenuItem>
                <MenuItem value={"EUR"}>EUR</MenuItem>
                <MenuItem value={"AED"}>AED</MenuItem>
-               <MenuItem value={"GBP"}>GsP</MenuItem>
+               <MenuItem value={"GBP"}>GBP</MenuItem>
         </Select>
         <Table sx={{ maxWidth: '80%' }} aria-label="caption table">
         <TableHead>
